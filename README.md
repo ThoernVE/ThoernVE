@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ThoernVE. I'm a student on TUC Sweden where I'm currently studying System development .NET. I started my first semester this fall in August.
-- 👀 I’m interested in all parts of system development and increasing my ability to solve problems and further develop my coding abilities.
-- 🌱 I’m currently learning the basics of coding and trying to make projects on the side of schoolwork.
-- 💞️ I’m looking to collaborate on anything that i can be helpful on, if you have anything where you think i could be of help, feel free to contact me! I am also very happy for any feedback on the code that is put up on my page.
-- 📫 How to reach me feel free to contact me on Github or send me a message on Discord, Thoernve.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Will be updated in the future.
+- Hi, I’m @ThoernVE. I'm a student on TUC Sweden where I'm currently studying System development .NET. I started my first semester  in August 2024.
+- I am currently mostly doing schoolwork and trying to make small interesting projects in order to learn.
+- Feel free to check out my public repositories for some of my projects.
+- Portfolio-page is a future project that will be pinned when ready.
+
+- Thank you for stopping by!
 
 <!---
 ThoernVE/ThoernVE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
