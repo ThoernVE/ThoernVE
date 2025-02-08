@@ -6,7 +6,7 @@
 - Thank you for stopping by!
 
 - Current LeetCode Progress:
--
+
   [![Leetcode Stats](https://leetcard.jacoblin.cool/ThoernVE)](https://leetcode.com/ThoernVE)
 
 <!---
