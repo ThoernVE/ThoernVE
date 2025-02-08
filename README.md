@@ -5,7 +5,8 @@
 
 - Thank you for stopping by!
 
-- [![Leetcode Stats](https://leetcard.jacoblin.cool/ThoernVE)](https://leetcode.com/ThoernVE)
+- Current LeetCode Progress:
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ThoernVE)](https://leetcode.com/ThoernVE)
 
 <!---
 ThoernVE/ThoernVE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
