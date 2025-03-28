@@ -6,7 +6,7 @@ In web development, I have experience working with HTML, CSS, and JavaScript for
 
 Beyond my studies, I enjoy working on side projects where I can experiment with new technologies and refine my development skills. In my free time, I also engage in training and gaming, maintaining a balance between work and personal interests.
 
-- Feel free to explore my repositories and connect with me if you share similar interests or have exciting projects to discuss.
+Feel free to explore my repositories and connect with me if you share similar interests or have exciting projects to discuss.
 
 
 
