@@ -1,9 +1,14 @@
-- Hi, I’m @ThoernVE. I'm a student on TUC Sweden where I'm currently studying System development .NET. I started my first semester  in August 2024.
-- I am currently mostly doing schoolwork and trying to make small interesting projects in order to learn.
-- Feel free to check out my public repositories for some of my projects.
-- Portfolio-page is a future project that will be pinned when ready.
+Welcome to My GitHub
 
-- Thank you for stopping by!
+I am a system development student specializing in .NET, with a background in both web development and backend programming. My studies have covered a wide range of topics, including databases, API development (both controllers and minimal APIs), system architecture, and design patterns. I am passionate about writing clean, maintainable code and continuously improving my skills.
+
+In web development, I have experience working with HTML, CSS, and JavaScript for traditional websites, as well as utilizing Blazor to build modern web applications. On the backend, I have worked extensively with database management and API development, ensuring efficient and scalable solutions.
+
+Beyond my studies, I enjoy working on side projects where I can experiment with new technologies and refine my development skills. In my free time, I also engage in training and gaming, maintaining a balance between work and personal interests.
+
+- Feel free to explore my repositories and connect with me if you share similar interests or have exciting projects to discuss.
+
+
 
 - Current LeetCode Progress:
 
